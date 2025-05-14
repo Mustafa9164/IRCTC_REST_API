@@ -1,4 +1,4 @@
-package com.tcs.config;
+package com.tcs.app.config;
 
 import java.util.List;
 
